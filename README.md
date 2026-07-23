@@ -70,24 +70,6 @@ This dashboard helps stakeholders to:
 
 ---
 
-## 📸 Dashboard Preview
-
-> *(Add a screenshot of your dashboard here)*
-
-Example:
-
-```
-images/Supply_Chain_Dashboard.png
-```
-
-or
-
-```markdown
-![Supply Chain Dashboard](images/Supply_Chain_Dashboard.png)
-```
-
----
-
 ## 📂 Dataset
 
 The dataset contains supply chain information including:
